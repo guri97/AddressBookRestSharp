@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Gurpreet",
+      "lastname": "Singh",
+      "phoneNo": "8618199771",
+      "address": "Aberdeen Bazar",
+      "city": "Port Blair",
+      "state": "Andamans",
+      "zip": "744101",
+      "email": "gsgurpreet766@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "China",
+      "lastname": "swamy",
+      "phoneNo": "9044567887",
+      "address": "Shollengur",
+      "city": "chennai",
+      "state": "tamil nadu",
+      "zip": "354676",
+      "email": "cb97@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Harry",
+      "lastname": "kumar",
+      "phoneNo": "5869741236",
+      "address": "Port Blair",
+      "city": "Andaman",
+      "state": "Islands",
+      "zip": "744101",
+      "email": "Harry@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Deepak",
+      "lastname": "Kumar",
+      "phoneNo": "9254567887",
+      "address": "Eden Gardens",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "115654",
+      "email": "DeepakKumar09@gmail.com"
+    }
+  ]
+}
