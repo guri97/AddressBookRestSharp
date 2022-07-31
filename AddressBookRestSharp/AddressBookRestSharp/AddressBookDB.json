@@ -1,0 +1,103 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Gurpreet",
+      "lastname": "Singh",
+      "phoneNo": "8618199771",
+      "address": "Aberdeen Bazar",
+      "city": "Port Blair",
+      "state": "Andamans",
+      "zip": "744101",
+      "email": "gsgurpreet766@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "China",
+      "lastname": "swamy",
+      "phoneNo": "9044567887",
+      "address": "Shollengur",
+      "city": "chennai",
+      "state": "tamil nadu",
+      "zip": "354676",
+      "email": "cb97@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Harry",
+      "lastname": "kumar",
+      "phoneNo": "5869741236",
+      "address": "Port Blair",
+      "city": "Andaman",
+      "state": "Islands",
+      "zip": "744101",
+      "email": "Harry@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Deepak",
+      "lastname": "Kumar",
+      "phoneNo": "9254567887",
+      "address": "Eden Gardens",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "115654",
+      "email": "DeepakKumar09@gmail.com"
+    },
+    {
+      "firstname": "Arun",
+      "lastname": "R",
+      "phoneNumber": "9577456345",
+      "address": "Feroz Shah Kotla",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "547677",
+      "email": "vs@gmail.com",
+      "id": 5
+    },
+    {
+      "firstname": "Ankitha",
+      "lastname": "H",
+      "phoneNumber": "9756723456",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "435627",
+      "email": "yc@gmail.com",
+      "id": 6
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "V",
+      "phoneNo": "7858070934",
+      "address": "FC Real Madrid",
+      "city": "Madrid",
+      "state": "Spain",
+      "zip": "535678",
+      "email": "yash7@gmail.com",
+      "id": 7
+    },
+    {
+      "firstname": "Ankitha",
+      "lastname": "H",
+      "phoneNumber": "9756723456",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "435627",
+      "email": "yc@gmail.com",
+      "id": 8
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "V",
+      "phoneNumber": "9954564345",
+      "address": "Mohali",
+      "city": "Mohali",
+      "state": "Punjab",
+      "zip": "113425",
+      "email": "klr@gmail.com",
+      "id": 9
+    }
+  ]
+}
